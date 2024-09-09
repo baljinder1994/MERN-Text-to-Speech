@@ -1,0 +1,46 @@
+
+.App{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  background-color: black;
+}
+.tts-container{
+  background-color: aquamarine;
+  padding:2rem;
+  border-radius: 10px;
+  max-width:500px;
+  text-align: center;
+}
+h1{
+  font-size: 2.5rem;
+  color:black;
+  margin-bottom: 20px;
+}
+textarea{
+  width:100%;
+  padding:10px;
+  border:none;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+  background-color: #2a2a2a;
+  color:white;
+}
+.btn{
+  background: yellowgreen;
+  border: none;
+  padding:10px 20px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.download-link{
+  margin-top: 20px;
+}
+a{
+  display:inline-block;
+  margin-top: 20px;
+
+}
